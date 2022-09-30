@@ -1,0 +1,266 @@
+<!-- This imports the formatting needed for the List. If you know what you are doing you can replace this. -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<!-- Please keep the store list in alphabetical order. This is where the store list starts. -->
+<div class="container">
+    <div class="list-group w-auto">
+        <!-- A -->
+        <a href="https://aantara.sellfy.store/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/R8WSaCI.png" alt="A-Line" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">A-Line</h3>
+                <p class="mb-0 opacity-75">3D Assets for social VR and VTuber avatars.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://apyr.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/GI0C5QJ.png" alt="apyr" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">друг</h3>
+                <p class="mb-0 opacity-75">I sell 3D assets and 3D accessories.</p>
+              </div>
+            </div>
+        </a>
+        <!-- B -->
+        <a href="https://buildabelle.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/Y5xC1wE.png" alt="Build-A-Belle Workshop" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Build-A-Belle Workshop</h3>
+                <p class="mb-0 opacity-75">Making cutie models by daylight. Being a gremlin by moonlight. Never wanting to get into a fight. She is the one named bellerina.</p>
+              </div>
+            </div>
+        </a>
+        <!-- C -->
+        <a href="https://cattie.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/Sk490T4.png" alt="Cattie" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Cattie</h3>
+                <p class="mb-0 opacity-75">Creations for VRChat based around themes like Cybernetics, and dystopian future avatars.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://payhip.com/CheddarStore" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/iXsrs7j.jpg" alt="CheddarStore" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">CheddarStore</h3>
+                <p class="mb-0 opacity-75">Avatar / Asset creator whose always looking for things to learn overtime.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://cheesestore.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/xvv1ytN.png" alt="Cheese" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Cheese</h3>
+                <p class="mb-0 opacity-75">String Cheese</p>
+              </div>
+            </div>
+        </a>
+        <!-- D -->
+        <!-- E -->
+        <a href="https://store.scorched-echo.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/p6mVMGk.png" alt="E.C.H.O." width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">E.C.H.O.</h3>
+                <p class="mb-0 opacity-75">E.C.H.O is a kitbash VR artist with a focus on VRChat avatars & assets. They strive to create feature-rich VRCSDK3.0 content with tons of in-game customization options, games, and systems that make your time in VR easy & fun.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://www.elizacg.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/S9able3.gif" alt="Eliza" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">E L I Z A</h3>
+                <p class="mb-0 opacity-75">I am a professional 3D Character Artist. </p>
+                
+              </div>
+              <small class="text-muted">Insert Cash or select payment type. Use pinpad to complete transaction.</small>
+            </div>
+        </a>
+        <a href="https://etheri.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/kORrVlJ.png" alt="Etheri" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Etheri</h3>
+                <p class="mb-0 opacity-75">Creating clothes, accessories and tools for VRChat.</p>
+              </div>
+            </div>
+        </a>
+        <!-- F -->
+        <!-- G -->
+        <a href="https://www.gelw0.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/neZGofI.png" alt="Gelw0's Avatars" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Gelw0's Avatars</h3>
+                <p class="mb-0 opacity-75"></p>
+              </div>
+            </div>
+        </a>
+        <!-- H -->
+        <a href="https://payhip.com/hyacinthvr" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/MxPtYY8.png" alt="Hyacinth VR" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Hyacinth VR</h3>
+                <p class="mb-0 opacity-75">3D Asset & Model Creator for VRChat.</p>
+              </div>
+            </div>
+        </a>
+        <!-- I -->
+        <a href="https://miriaaamvr.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/yQcPnrr.png" alt="Infinity & Beyond: Miriaaam" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Infinity & Beyond: Miriaaam</h3>
+                <p class="mb-0 opacity-75">I make avatars/Assets for Vrc.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://zeit.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/fVMFRoU.png" alt="Infinity & Beyond: Zeit" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Infinity & Beyond: Zeit</h3>
+                <p class="mb-0 opacity-75">Makes assets and avatars for VRChat. Forever and always experimenting with styles.</p>
+              </div>
+            </div>
+        </a>
+        <!-- J -->
+        <!-- K -->
+        <!-- L -->
+        <a href="https://leroylmao.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/4HAIffa.png" alt="LeroyLmao" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">LeroyLmao</h3>
+                <p class="mb-0 opacity-75">All Scratch Avatars And Assets. - Femboy and Masc Male Avatars</p>
+              </div>
+            </div>
+        </a>
+        <!-- M -->
+        <a href="https://meagansan2000.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/2CsI6T1.png" alt="Meagansan2000" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Meagansan2000</h3>
+                <p class="mb-0 opacity-75">3D creator who mainly makes models revolving around furry models but hope to put human content out in the future ❤️ Also has the biggest love for cows!</p>
+              </div>
+            </div>
+        </a>
+        <!-- N -->
+        <a href="https://nachoo.gumroad.com/ref=elizacg" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/B1z852T.png" alt="Nacho_" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Nacho_</h3>
+                <p class="mb-0 opacity-75">Making cute/sexy Avatars for VRChat.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://noodleshope.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/CX1gidd.png" alt="Noodle Shope" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Noodle Shope</h3>
+                <p class="mb-0 opacity-75">Hi I’m Noodlez I make models for VRC. All of my models have an optimized and quest version. Currently learning to make things from scratch while focusing on optimization.</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://minichibi.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/eFN5fTD.png" alt="Nova Goods" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Nova Goods</h3>
+                <p class="mb-0 opacity-75">I like making a bit of everything and experimenting with texture work.</p>
+              </div>
+            </div>
+        </a>
+        <!-- O -->
+        <a href="https://onionvr.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/2jmhOCB.png" alt="Onion's Spot" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Onion's Spot</h3>
+                <p class="mb-0 opacity-75">Hello! I make avatars and assets for all. ❤️ - Onion#1515</p>
+              </div>
+            </div>
+        </a>
+        <!-- P -->
+        <a href="https://picklebarrel3d.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/ilRkmvW.png" alt="Picklebarrel3D" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Picklebarrel3D</h3>
+                <p class="mb-0 opacity-75">Vrchat clothes, characters, and other 3D assets.</p>
+              </div>
+            </div>
+        </a>
+        <!-- Q -->
+        <!-- R -->
+        <a href="https://riggatonyvr.gumroad.com/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/LRH2t2m.jpg" alt="RiggaTony's Avatar Bistro" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">RiggaTony's Avatar Bistro</h3>
+                <p class="mb-0 opacity-75">RiggaTony#0001 - VRChat Avatar/Asset Creator</p>
+              </div>
+            </div>
+        </a>
+        <!-- S -->
+        <a href="https://payhip.com/SuraVr" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/AFZUMq0.png" alt="SuraVr" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">SuraVr</h3>
+                <p class="mb-0 opacity-75">Avatar and Scratch Asset Creator for Vrchat- Home of Kpop Style✨.</p>
+              </div>
+            </div>
+        </a>
+        <!-- T -->
+        <!-- U -->
+        <!-- V -->
+        <!-- W -->
+        <!-- X -->
+        <a href="https://gumroad.com/wolfsden3d" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/lZChXcH.png" alt="Wolf's Den 3D" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Wolf's Den 3D</h3>
+                <p class="mb-0 opacity-75">Creator duo creating animalgirls, monstergirls and furries and even scratch assets.</p>
+              </div>
+            </div>
+        </a>
+        <!-- Y -->
+        <!-- Z -->
+        <a href="https://gumroad.com/zeffyravatars" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/IxkEGBE.jpg" alt="Zeffyr's Avatars" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">Zeffyr's Avatars</h3>
+                <p class="mb-0 opacity-75">Avatar Creator for VRChat // With a fantasy twist!</p>
+              </div>
+            </div>
+        </a>
+        <a href="https://zinpia.sellfy.store/" target="_blank" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+            <img src="https://i.imgur.com/rhgoqhz.png" alt="ZinPia" width="100" height="100" class="rounded-circle flex-shrink-0">
+            <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+                <h3 class="mb-0">ZinPia</h3>
+                <p class="mb-0 opacity-75"></p>
+              </div>
+            </div>
+        </a>
+    </div>
+</div>
