@@ -1,2 +1,2 @@
-# EasySellfyTemplates
-Some templates I made for Sellfy code blocks, utilizing bootstrap.
+# RecommendedList
+Copy and Past this code into any Sellfy Code Block to share reccomended VRChat Creators
